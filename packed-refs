@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+e52b53f87c38b0dad3fca8dd9a76c15fcda63e46 refs/remotes/origin/AMP
+52a67a61b317a4060b9f1142533e9916ee34f25d refs/remotes/origin/DFL-1.0
+46fc2397c582b9fc375a023418257924112e292b refs/remotes/origin/master
+f72df0295050d9a9f6502854d2a68f23349ba1c7 refs/tags/DF.wf.288res.384.92.72.22
+9b070e10a63850971abe07a60f6c41b2adb5ac31 refs/tags/pretrained
